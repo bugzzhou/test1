@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"test1/output"
+
+	"github.com/bugzzhou/test1/output"
 )
 
 func main() {
